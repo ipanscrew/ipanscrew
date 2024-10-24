@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ipanscrew
-- My,old 23
-- My hobby badminton 
-
-<!---
-ipanscrew/ipanscrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- name:@Irfan.m
+- Date of birth: Tangerang 03-06-2001
+- Gender: Male
+- Email:wakwaubapak9@gmail.com
+- Regilion:Islam
+- Hobby:Badmimton,Cylcling,traveling disassembling about technology
+- Phone:089683999286
+- Skils:analyze data about technology, cooking, editing, cameraman
+- BloodType:
+- Addres:Jalan raya pamulang benda timur 15
+  tangerang selatan
+- Height: 165 Cm
+- Weight: 50 kg
+- Nationalty: Indonesia
